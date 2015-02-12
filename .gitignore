@@ -1,3 +1,5 @@
 *.o
 *.exe
 *.obj
+.gdb_history
+peda-session*.txt
